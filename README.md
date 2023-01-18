@@ -1,4 +1,4 @@
-# ParkourRace
+# Parkour Race
 <h3 align="center">22360859353 Berkan Serbes</h3>
 
 <hr>
@@ -50,6 +50,8 @@ Bu kısımda oyuncular duvardaki hedefleri yok ederek oyuna devam ederler. Hedef
 Bu kısımda oyuncular karşıdan gelen kutulardan kaçıp güvenli bölgelere ilerleyerek bu kısmı aşmak zorundadır. Eğer oyuncular kutu nesnesiyle çarpışırlarsa kutu tarafından platformun dışına sürüklenir.
 
 ![Box Collision](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/BoxCollision.png?raw=true)
+
+![JumpBall](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/jumpBall.png?raw=true)
 
 ### Spawn Noktaları
 
