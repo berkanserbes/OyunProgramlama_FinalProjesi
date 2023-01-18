@@ -68,7 +68,7 @@ Oyunculardan herhangi biri birinci sahnenin bitiş noktasına ulaştığında ik
 
 Herhangi bir oyuncu ESC tuşuna bastığında oyun duraklatılır ve durdurma menüsü açılır. Bu durdurma menüsünde 'Devam Et', 'Yeniden Başlat' ve 'Ana Menü' adlı üç adet buton bulunmaktadır. Oyuncu 'Devam Et' butonuna basarak oyuna kaldığı yerden devam edebilir. 'Yeniden Başlat' butonuna basarak oyuna yeniden başlayabilir. 'Ana Menü' butonuna basarak Ana Menü ekranına geçiş yapabilir ya da yeniden ESC tuşuna basarak bu durdurma menüsünü kapatabilir.
 
-![PauseMenu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/pauseMenu.png?raw=true)
+![PauseMenu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/Pause-Menu.png?raw=true)
 
 <hr>
 
