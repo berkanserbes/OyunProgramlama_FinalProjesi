@@ -33,23 +33,23 @@ Bu proje vize projesinin devamı niteliğindedir. Vize projesini görüntülemek
 Oyun ilk açıldığında ana menü ekranı karşımıza çıkmaktadır. Bu ana menüde kullanıcı 'Yeni Oyun' butonuna tıklayarak oyunun ilk sahnesine geçiş yapabilir.
 Kayıtlı bir oyunu varsa 'Devam Et' butonuna tıklayarak kaydedilmiş sahneden oyuna devam edebilir. 'Devam Et' butonu oyun ilk açıldığında pasif durumdadır.
 
-![Ana Menu]()
+![Ana Menu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/MainMenu.png?raw=true)
 
 Oyun ekranı, sol tarafta Player1'in kamerası ve sağ tarafta Player2'nin kamerası olmak üzere ikiye bölünmüştür. Ekranın üst orta kısmında kaçıncı bölümde olduğunu gösteren text ve sağ-sol üst kısımda oyuncuların skorlarını gösteren textler yer almaktadır. Her bir oyuncunun üstünde rakip oyuncuya skill uygulanabilirlik durumunu gösteren bir animasyon yer almaktadır, bu animasyon etkin olduğunda oyuncular birbirlerine skill (Zıplatma, Rastgele kuvvet uygulama) uygulayabilir.
 
-![Dual Camera](https://github.com/berkanserbes/OyunProgramlama_VizeProjesi/blob/main/ScreenShot/DualCamera.png?raw=true)
+![Dual Camera](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/sahne1.png?raw=true)
 
 ### Atış bölümü
 
 Bu kısımda oyuncular duvardaki hedefleri yok ederek oyuna devam ederler. Hedefler yeşil ve kırmızı olmak üzere iki renkten oluşur ve belirli aralıklarla renkleri değişir. Eğer hedefin rengi yeşilse Oyuncu1 klavyenin solunda bulunan Shift tuşuyla, Oyuncu2 ise AltGr tuşuyla hedefleri yok edebilir. Oyuncular bu hedefleri kırarken yerdeki lazerlerin üzerinden zıplamalıdırlar eğer lazerlerin üzerine basarlarsa en yakın spawn noktasından oyuna devam ederler.
 
-![Target Area](https://github.com/berkanserbes/OyunProgramlama_VizeProjesi/blob/main/ScreenShot/ShootTarget.png?raw=true)
+![Target Area](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/fireLaser.png?raw=true)
 
 ### Kutu bölümü
 
 Bu kısımda oyuncular karşıdan gelen kutulardan kaçıp güvenli bölgelere ilerleyerek bu kısmı aşmak zorundadır. Eğer oyuncular kutu nesnesiyle çarpışırlarsa kutu tarafından platformun dışına sürüklenir.
 
-![Box Collision](https://github.com/berkanserbes/OyunProgramlama_VizeProjesi/blob/main/ScreenShot/BoxCollision.png?raw=true)
+![Box Collision](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/BoxCollision.png?raw=true)
 
 ### Spawn Noktaları
 
@@ -60,13 +60,13 @@ Oyun parkuru bölümlere ayrılmıştır ve bu bölümlerin her bir noktası bir
 
 Oyunculardan herhangi biri birinci sahnenin bitiş noktasına ulaştığında ikinci sahneye geçiş yapılır. İkinci sahne birinci sahnenin aynısıdır.
 İkinci oyun sahnesinde parkurun bitiş çizgisine ilk ulaşan oyuncu oyunu kazanır. Oyunun sonunda oyunu kazanan kişiyi gösteren ekran ortaya çıkar ve kullanıcı, ana menü ekranına yönlendirilir.
-![Second Scene]()
-![Winner Screen](https://github.com/berkanserbes/OyunProgramlama_VizeProjesi/blob/main/ScreenShot/WinnerScreen.png?raw=true)
+![Second Scene](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/sahne2.png?raw=true)
+![Winner Screen](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/winScreen.png?raw=true)
 
 
 Herhangi bir oyuncu ESC tuşuna bastığında oyun duraklatılır ve durdurma menüsü açılır. Bu durdurma menüsünde 'Devam Et', 'Yeniden Başlat' ve 'Ana Menü' adlı üç adet buton bulunmaktadır. Oyuncu 'Devam Et' butonuna basarak oyuna kaldığı yerden devam edebilir. 'Yeniden Başlat' butonuna basarak oyuna yeniden başlayabilir. 'Ana Menü' butonuna basarak Ana Menü ekranına geçiş yapabilir ya da yeniden ESC tuşuna basarak bu durdurma menüsünü kapatabilir.
 
-![Pause Menu](https://github.com/berkanserbes/OyunProgramlama_VizeProjesi/blob/main/ScreenShot/PauseMenu.png?raw=true)
+![Pause Menu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/pauseMenu.png?raw=true)
 
 <hr>
 
