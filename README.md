@@ -60,7 +60,7 @@ Oyun parkuru bölümlere ayrılmıştır ve bu bölümlerin her bir noktası bir
 ### 2.Sahne
 
 Oyunculardan herhangi biri birinci sahnenin bitiş noktasına ulaştığında ikinci sahneye geçiş yapılır. İkinci sahne birinci sahnenin aynısıdır.
-İkinci oyun sahnesinde parkurun bitiş çizgisine ilk ulaşan oyuncu oyunu kazanır. Oyunun sonunda oyunu kazanan kişiyi gösteren ekran ortaya çıkar ve kullanıcı, ana menü ekranına yönlendirilir.
+Oyunu kazanan oyuncu puan durumuna göre belirlenir. Puanlar eşit ise oyun berabere biter .Oyunun sonunda oyunu kazanan kişiyi gösteren ekran ortaya çıkar ve kullanıcı, ana menü ekranına yönlendirilir.
 
 ![Second Scene](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/sahne2.png?raw=true)
 ![Winner Screen](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/winScreen.png?raw=true)
