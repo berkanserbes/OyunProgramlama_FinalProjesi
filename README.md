@@ -66,7 +66,7 @@ Oyunculardan herhangi biri birinci sahnenin bitiş noktasına ulaştığında ik
 
 Herhangi bir oyuncu ESC tuşuna bastığında oyun duraklatılır ve durdurma menüsü açılır. Bu durdurma menüsünde 'Devam Et', 'Yeniden Başlat' ve 'Ana Menü' adlı üç adet buton bulunmaktadır. Oyuncu 'Devam Et' butonuna basarak oyuna kaldığı yerden devam edebilir. 'Yeniden Başlat' butonuna basarak oyuna yeniden başlayabilir. 'Ana Menü' butonuna basarak Ana Menü ekranına geçiş yapabilir ya da yeniden ESC tuşuna basarak bu durdurma menüsünü kapatabilir.
 
-![Pause Menu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/pauseMenu.png?raw=true)
+![PauseMenu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/pauseMenu.png?raw=true)
 
 <hr>
 
@@ -82,3 +82,13 @@ Herhangi bir oyuncu ESC tuşuna bastığında oyun duraklatılır ve durdurma me
 
 * Ana Menü
 * Kayıt Alma
+
+## Kullanılan Dosyalar
+
+* <p> Human animasyon: <a href="https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271">https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271</a> </p>
+* <p> Material: <a href="https://assetstore.unity.com/packages/2d/textures-materials/20-ground-material-sets-sci-fi-12401">https://assetstore.unity.com/packages/2d/textures-materials/20-ground-material-sets-sci-fi-12401</a></p> 
+* <p> Background Music: <a href="https://opengameart.org/content/railjet-long-seamless-loop">https://opengameart.org/content/railjet-long-seamless-loop</a></p>
+* <p> Spawn Noktası Sound Effect: <a href="https://opengameart.org/content/cute-mission-complete">https://opengameart.org/content/cute-mission-complete</a></p>
+* <p> Skill Sesi: <a href="https://opengameart.org/content/spell-4-fire">https://opengameart.org/content/spell-4-fire</a></p>
+* <p> Ateş Etme Sesi: <a href="https://pixabay.com/sound-effects/shotgun-firing-4-6746/">https://pixabay.com/sound-effects/shotgun-firing-4-6746/</a></p>
+* <p> Zıplama Sesi: <a href="https://pixabay.com/sound-effects/cartoon-jump-6462/">https://pixabay.com/sound-effects/cartoon-jump-6462/</a></p>
