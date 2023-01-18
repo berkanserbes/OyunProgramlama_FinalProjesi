@@ -35,7 +35,7 @@ Kayıtlı bir oyunu varsa 'Devam Et' butonuna tıklayarak kaydedilmiş sahneden 
 
 ![Ana Menu](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/MainMenu.png?raw=true)
 
-Oyun ekranı, sol tarafta Player1'in kamerası ve sağ tarafta Player2'nin kamerası olmak üzere ikiye bölünmüştür. Ekranın üst orta kısmında kaçıncı bölümde olduğunu gösteren text ve sağ-sol üst kısımda oyuncuların skorlarını gösteren textler yer almaktadır. Her bir oyuncunun üstünde rakip oyuncuya skill uygulanabilirlik durumunu gösteren bir animasyon yer almaktadır, bu animasyon etkin olduğunda oyuncular birbirlerine skill (Zıplatma, Rastgele kuvvet uygulama) uygulayabilir.
+Oyun ekranı, sol tarafta Player1'in kamerası ve sağ tarafta Player2'nin kamerası olmak üzere ikiye bölünmüştür. Ekranın üst orta kısmında kaçıncı bölümde olduğunu gösteren text ve sağ-sol üst kısımda oyuncuların skorlarını gösteren textler yer almaktadır. Parkuru diğerinden önce tamamlayan oyuncu 1 puan kazanır. Her bir oyuncunun üstünde rakip oyuncuya skill uygulanabilirlik durumunu gösteren bir animasyon yer almaktadır, bu animasyon etkin olduğunda oyuncular birbirlerine skill (Zıplatma, Rastgele kuvvet uygulama) uygulayabilir.
 
 ![Dual Camera](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/sahne1.png?raw=true)
 
@@ -57,11 +57,11 @@ Bu kısımda oyuncular karşıdan gelen kutulardan kaçıp güvenli bölgelere i
 
 Oyun parkuru bölümlere ayrılmıştır ve bu bölümlerin her bir noktası bir spawn noktasıdır. Oyuncu parkurun dışına düştüğünde veya lazerin üzerine bastığında en yakın spawn noktasından oyuna devam eder.
 
-
 ### 2.Sahne
 
 Oyunculardan herhangi biri birinci sahnenin bitiş noktasına ulaştığında ikinci sahneye geçiş yapılır. İkinci sahne birinci sahnenin aynısıdır.
 İkinci oyun sahnesinde parkurun bitiş çizgisine ilk ulaşan oyuncu oyunu kazanır. Oyunun sonunda oyunu kazanan kişiyi gösteren ekran ortaya çıkar ve kullanıcı, ana menü ekranına yönlendirilir.
+
 ![Second Scene](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/sahne2.png?raw=true)
 ![Winner Screen](https://github.com/berkanserbes/OyunProgramlama_FinalProjesi/blob/main/ScreenShots/winScreen.png?raw=true)
 
